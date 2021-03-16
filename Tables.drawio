@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T17:37:42.525Z" agent="5.0 (Macintosh)" etag="Nw69B_nUZIIR9SmZD7Ja" version="14.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-16T17:38:26.339Z" agent="5.0 (Macintosh)" etag="oKeZ-PbkiBSfBsoqgDng" version="14.4.6" type="github" pages="2">
   <diagram id="5ilaBiRN5ilefdBksIBX" name="Page-1">
     <mxGraphModel dx="2019" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,8 +169,8 @@
         <mxCell id="1XlSDatPALYK78RdC78z-2" value="donate_type(boolean) (true:income,false:out)" style="text;fillColor=#ffcd28;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeColor=#d79b00;rounded=1;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="-80" y="310" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="UdP3SsA0RZtGUYudrC7c-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="550" width="40" height="20" as="geometry" />
+        <mxCell id="UdP3SsA0RZtGUYudrC7c-1" value="burayı Davut yazdı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="570" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
