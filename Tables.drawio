@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T17:57:05.459Z" agent="5.0 (Macintosh)" etag="oqPaKIaAKVBWzms6LDoi" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-16T18:00:18.484Z" agent="5.0 (Macintosh)" etag="WpKyMTR50jzSa6OUzchj" version="14.4.8" type="github" pages="2">
   <diagram id="5ilaBiRN5ilefdBksIBX" name="Page-1">
     <mxGraphModel dx="2019" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
           <mxGeometry y="356" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_hCiL5Zv570hXZNLd92e-16" value="TEAM COLOURS" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="330" y="70" width="160" height="386" as="geometry" />
+          <mxGeometry x="330" y="70" width="160" height="266" as="geometry" />
         </mxCell>
         <mxCell id="_hCiL5Zv570hXZNLd92e-17" value="HASAN" style="text;strokeColor=#82b366;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#FFCD28;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -222,18 +222,6 @@
         </mxCell>
         <mxCell id="_hCiL5Zv570hXZNLd92e-24" value="SUBUTAY" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_hCiL5Zv570hXZNLd92e-25" value="created_at" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
-          <mxGeometry y="266" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_hCiL5Zv570hXZNLd92e-26" value="updated_at" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
-          <mxGeometry y="296" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_hCiL5Zv570hXZNLd92e-27" value="user_id" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
-          <mxGeometry y="326" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_hCiL5Zv570hXZNLd92e-28" value="post_type(Boolean)&#xa; (true:news,false:campaign)" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
-          <mxGeometry y="356" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mn2s3F7197sRRMygaU40-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rJqgE6qayyz_9WT9bHCP-31" target="_hCiL5Zv570hXZNLd92e-3">
           <mxGeometry relative="1" as="geometry">
