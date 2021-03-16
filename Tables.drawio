@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T17:56:09.159Z" agent="5.0 (Macintosh)" etag="d9x7cz5kE4_Ig5J6YxwG" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-16T17:57:05.459Z" agent="5.0 (Macintosh)" etag="oqPaKIaAKVBWzms6LDoi" version="14.4.8" type="github" pages="2">
   <diagram id="5ilaBiRN5ilefdBksIBX" name="Page-1">
     <mxGraphModel dx="2019" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="_hCiL5Zv570hXZNLd92e-17" value="HASAN" style="text;strokeColor=#82b366;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#FFCD28;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_hCiL5Zv570hXZNLd92e-18" value="DAVUT" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
+        <mxCell id="_hCiL5Zv570hXZNLd92e-18" value="DAVUT" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_hCiL5Zv570hXZNLd92e-19" value="ERCAN" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="_hCiL5Zv570hXZNLd92e-16" vertex="1">
