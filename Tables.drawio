@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T12:35:09.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yuk0_nXISOi00CcBdamM" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-21T12:35:31.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="j-NlVbmJmJmNySffiGu-" version="14.4.9" type="github" pages="2">
   <diagram id="5ilaBiRN5ilefdBksIBX" name="Page-1">
     <mxGraphModel dx="1984" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
         <mxCell id="rJqgE6qayyz_9WT9bHCP-23" value="password" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rJqgE6qayyz_9WT9bHCP-18" vertex="1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1XlSDatPALYK78RdC78z-5" value="company" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="rJqgE6qayyz_9WT9bHCP-18" vertex="1">
+        <mxCell id="1XlSDatPALYK78RdC78z-5" value="company" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="rJqgE6qayyz_9WT9bHCP-18" vertex="1">
           <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NmEJktQ_k9TM0s-jbQ15-29" value="phone" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="rJqgE6qayyz_9WT9bHCP-18" vertex="1">
+        <mxCell id="NmEJktQ_k9TM0s-jbQ15-29" value="phone" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="rJqgE6qayyz_9WT9bHCP-18" vertex="1">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rJqgE6qayyz_9WT9bHCP-24" value="last_login" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="rJqgE6qayyz_9WT9bHCP-18" vertex="1">
@@ -139,7 +139,7 @@
         <mxCell id="NmEJktQ_k9TM0s-jbQ15-23" value="is_active" style="text;strokeColor=#36393d;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fillColor=#FFE6CC;" parent="NmEJktQ_k9TM0s-jbQ15-16" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1XlSDatPALYK78RdC78z-2" value="donate_type(boolean) (true:income,false:out)" style="text;fillColor=#ffcd28;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;strokeColor=#d79b00;rounded=1;gradientColor=#ffa500;" parent="1" vertex="1">
+        <mxCell id="1XlSDatPALYK78RdC78z-2" value="donate_type(boolean) (true:income,false:out)" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="400" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_hCiL5Zv570hXZNLd92e-2" value="Adress" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
